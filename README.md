@@ -1,4 +1,7 @@
-Minimal routing layer for building REST APIs with Zeit's [Micro](https://github.com/zeit/micro) and async + await.
+# micro-rest API & async + await
+
+Minimal project for building REST APIs with Zeit's [Micro](https://github.com/zeit/micro) and async + await.
+
 ## Installation
 
 ```bash
