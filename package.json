@@ -1,5 +1,5 @@
 {
-    "name": "micro-route",
+    "name": "micro-rest",
     "version": "1.0.0",
     "description": "from express to micro",
     "main": "index.js",
