@@ -35,4 +35,5 @@ Finally, micro gives you a little binary to launch the exported microservice eas
 ```
 
 ## Reference
-- [](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700/)
+
+[](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700/)
